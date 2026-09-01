@@ -12,8 +12,8 @@ To write a python program to find the rank of a matrix
 ## Program:
 ```python
 #Program to find the rank of a matrix.
-#Developed by: SHRIHARI M
-#RegisterNumber:212225230265
+#Developed by: sakthi sunthar k k
+#RegisterNumber:212225040361
 import os 
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
